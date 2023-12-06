@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LachlanSonter
-- 👀 I’m interested in Blockchain technology, Haskell, and Cardano Infrustructure
-- 🌱 I’m currently learning Haskell
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning everything I possibly can!
 
 <!---
 LachlanSonter/LachlanSonter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
