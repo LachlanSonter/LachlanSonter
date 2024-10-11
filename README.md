@@ -1,5 +1,5 @@
 🌱 Busy building...<br>
-Business Owner AI Chatbo (For Franchise Partners)<be>
+Business Owner AI Chatbot with an email-based Agent (For Franchise Partners)<br>
 Donut Detective AI w/ Donut Tinder (Gamified Labeling of Good vs Bad Donuts for Marketing Managers)<br>
 more coming soon...
 <!---
